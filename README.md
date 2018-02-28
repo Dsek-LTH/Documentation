@@ -8,6 +8,11 @@
 ## Architecture
 
 ## Coding Guidelines
+
+Use this ist of preferred languages when coding if there isn't a good reason otherwise
+* Typescript
+* JavaScript
+
 ### Typescript
 
 1. Always use tslint. At the momemnt we extend the recommended config.
