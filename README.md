@@ -11,6 +11,7 @@
 
 1. Always use tslint. At the momemnt we extend the recommended config.
 ```javascript
+// tslint.json
 {
   "extends": [
   	"tslint:recommended"
