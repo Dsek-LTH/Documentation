@@ -15,7 +15,7 @@ Use this ist of preferred languages when coding if there isn't a good reason oth
 
 ### Typescript
 
-1. Always use tslint. At the momemnt we extend the recommended config.
+1. Always use tslint. At the moment we extend the recommended config.
 ```javascript
 // tslint.json
 {
