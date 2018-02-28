@@ -10,7 +10,7 @@
 ## Coding Guidelines
 
 Use this ist of preferred languages when coding if there isn't a good reason otherwise
-* Typescript
+* TypeScript
 * JavaScript
 
 ### Typescript
